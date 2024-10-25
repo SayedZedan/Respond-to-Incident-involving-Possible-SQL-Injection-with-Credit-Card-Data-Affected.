@@ -1,0 +1,2 @@
+# Respond-to-Incident-involving-Possible-SQL-Injection-with-Credit-Card-Data-Affected.
+Project Overview: In this project, a DLP (Data Loss Prevention) security appliance has alerted the security team to an attempt to exfiltrate credit card data. Management has requested confirmation on whether any customer credit card data was actually exfiltrated, and if so, to which destination, among other inquiries.
